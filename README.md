@@ -34,4 +34,4 @@ To explore the dashboard, follow these steps:
    - Navigate to the project folder and open the Power BI file "Sales Dashboard.pbix" using Microsoft Power BI.
 
 3. **Explore the Dashboard:**
-- Interact with the various visualizations to gain insights into the retail analytics data.
+   - Interact with the various visualizations to gain insights into the retail analytics data.
