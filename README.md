@@ -29,3 +29,9 @@ To explore the dashboard, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/retail-analytics-dashboard.git
+
+2. **Open Power BI File:**
+   - Navigate to the project folder and open the Power BI file "Sales Dashboard.pbix" using Microsoft Power BI.
+
+3. **Explore the Dashboard:**
+- Interact with the various visualizations to gain insights into the retail analytics data.
